@@ -1,0 +1,2 @@
+# jstest
+Test for JavaScript
